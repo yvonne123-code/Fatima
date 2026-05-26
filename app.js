@@ -1,3 +1,3 @@
 console.log("hej")
 
-TODO: lägg till funktioner
+TODO: lägg till funktionerendless-loop();
