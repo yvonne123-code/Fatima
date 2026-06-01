@@ -1,13 +1,13 @@
-console.log("hej")
+console.log("God Morgon!")
 
 TODO: lägg till funktionerendless-loop();
 console.log("hejdå")
 
-function endless-loop() {
-    while (true) {
-        console.log("loopar")
-    }
+function goodbye(name) {
+    console.log("hejdå " + name)
 }
+goodbye("Alice")
+goodbye("Bob")
 
 endless-loop()
 
@@ -15,6 +15,6 @@ function greet(name) {
     console.log("hej " + name)
 }
 
-greet("Alice")
-greet("Bob")
+greet("Linnea")
+greet("Stefan")
 greet("Grit Park")
