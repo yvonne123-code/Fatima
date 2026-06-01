@@ -17,3 +17,4 @@ function greet(name) {
 
 greet("Alice")
 greet("Bob")
+greet("Grit Park")
